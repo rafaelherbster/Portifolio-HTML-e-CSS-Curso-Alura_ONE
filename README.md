@@ -39,7 +39,7 @@ Caso queira rodar o projeto localmente:
 
 ## Contato
 Caso tenha alguma sugestão ou feedback, sinta-se à vontade para entrar em contato:
-📧 Email: seuemail@email.com  
+📧 Email: rafaelherbster8@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-herbster)  
 🐙 [GitHub](https://github.com/rafaelherbster)
 
